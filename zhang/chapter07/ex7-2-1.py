@@ -1,10 +1,10 @@
-# 1-1
-class Book:
-    def __init__(self, title, author):
-        self.title = str(title)
-        self.author = str(author)
-
-B = Book("python", "AAA")
+# # 1-1
+# class Book:
+#     def __init__(self, title, author):
+#         self.title = str(title)
+#         self.author = str(author)
+#
+# B = Book("python", "AAA")
 
 
 # 1-2
